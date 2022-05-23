@@ -1,0 +1,3 @@
+echo Responding to host...
+echo %computername%>>"responses.txt"
+cls
